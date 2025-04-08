@@ -21,6 +21,7 @@ Branch Campus: Faculty of Health & Sciences
 Cloud-hosted Email Server (External connectivity)
 
 🔧 Key Features
+
 ✔ VLAN Segmentation – Each department/faculty on a separate subnet.
 
 ✔ Dynamic Routing (RIPv2) – For internal routing between routers.
