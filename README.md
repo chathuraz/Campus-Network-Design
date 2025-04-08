@@ -22,7 +22,11 @@ Cloud-hosted Email Server (External connectivity)
 
 🔧 Key Features
 ✔ VLAN Segmentation – Each department/faculty on a separate subnet.
+
 ✔ Dynamic Routing (RIPv2) – For internal routing between routers.
+
 ✔ Static Routing – Used for external server access (Email Server).
+
 ✔ Router-Based DHCP – Automatic IP assignment for end devices.
+
 ✔ Switch Security – VLAN trunking, port security, and best practices.
